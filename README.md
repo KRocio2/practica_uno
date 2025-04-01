@@ -14,6 +14,12 @@ Este proyecto es una API para gestionar estudiantes, con funcionalidades para:
 - **Maven**
 - **Postman** o **cURL** para probar la API
 
+## Abrir el proyecto:
+- Abrirlo en vsc
+- posicionarse en la carpeta
+- ejecutar mvn clean install
+- ejecutar : java -jar target/mi-proyecto-spring-boot-0.0.1-SNAPSHOT.jar
+
 ## Endpoints de la API
 
 ### Obtener todos los estudiantes
