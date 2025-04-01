@@ -1,0 +1,12 @@
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/UniversidadApplication.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/controller/EstudianteController.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/dto/DocenteDTO.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/dto/EstudianteDTO.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/dto/MateriaDTO.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/model/Docente.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/model/Estudiante.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/model/Materia.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/model/Persona.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/repository/EstudianteRepository.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/service/IEstudianteService.java
+/Users/black/Desktop/desarrollo/primer_parcial/clasescod/RegistroUniversitario-main/src/main/java/com/universidad/service/impl/EstudianteServiceImpl.java
